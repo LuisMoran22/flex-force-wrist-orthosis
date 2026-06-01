@@ -1,0 +1,5 @@
+# Optional dependencies for future data analysis and serial acquisition scripts
+numpy
+pandas
+matplotlib
+pyserial

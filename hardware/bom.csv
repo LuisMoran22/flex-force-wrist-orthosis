@@ -1,0 +1,14 @@
+Component,Estimated Cost MXN,Notes
+Sensor Flex 25K,1500,Flexible sensing element
+Arduino Nano,150,Microcontroller
+Buttons x10,20,User input
+Cable,0,Available material
+Resistors x10,50,Circuit components
+Electronic components,390,General electronics
+OLED 128x64 display,180,Local visualization
+MPU6050 module,140,Accelerometer and gyroscope
+Neoprene fabric,399.48,Orthosis body material
+ABS filament,510.74,3D-printed support components
+Copper board,250,PCB fabrication
+Ferric chloride,200,PCB etching
+Total,3790.22,Estimated total from project report
